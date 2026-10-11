@@ -5,7 +5,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://ideolog.tech"><img src="https://img.shields.io/badge/Website-rezasaputradesky.work-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+  <a href="https://ideolog.tech"><img src="https://img.shields.io/badge/Website-ideolog.tech-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
   &nbsp;
   <a href="mailto:ideologtech@gmail.com"><img src="https://img.shields.io/badge/Email-ideologtech@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   &nbsp;
